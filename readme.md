@@ -1,0 +1,1 @@
+This is a React folder containing all my practice code.
